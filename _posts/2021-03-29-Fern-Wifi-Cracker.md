@@ -46,6 +46,8 @@ Se asigna el nombre de la tarjeta de red
 
 ![imagen]({{"img/Fern-Wifi-Cracker.jpg"}})
 
+![imagen]({{https://github.com/JoseLuisCarrilloVargas/joseluiscarrillovargas.github.io/blob/main/img/Fern-Wifi-Cracker.jpg}})
+
 
 
 代码演示
