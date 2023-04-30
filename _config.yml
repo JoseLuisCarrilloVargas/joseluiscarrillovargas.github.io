@@ -1,7 +1,7 @@
 # Site settings
 title: JOSE CARRILLO
 SEOTitle: JOSE CARRILLO
-header-img: img/Astronaut-.jpg
+header-img: img/Astronaut.jpg
 email: carrillovargasjoseluis@gmail.com
 description: "Solo hay que pensar fuera de la caja"
 keyword: 
@@ -12,7 +12,7 @@ github_repo: "https://github.com/JoseLuisCarrilloVargas/joseluiscarrillovargas.g
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Ingeniero en ciberseguridad"
-sidebar-avatar: /img/Astronaut.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Astronaut-.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
