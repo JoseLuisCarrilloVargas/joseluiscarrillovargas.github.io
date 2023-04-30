@@ -34,12 +34,6 @@ Primero se debe deshabilitar la tarjeta de red
 Se asigna el nombre de la tarjeta de red 
 
 ```objc
-- (void)observeValueForKeyPath:(nullable NSString *)keyPath ofObject:(nullable id)object change:(nullable NSDictionary<NSKeyValueChangeKey, id> *)change context:(nullable void *)context;
-```
-
-- 移除监听
-
-```objc
 - ip link set wlan0 name wlan0mon
 ```
 
