@@ -43,10 +43,8 @@ Se asigna el nombre de la tarjeta de red
 - ip link set wlan0 name wlan0mon
 ```
 
-
-![imagen]({{"img/Fern-Wifi-Cracker.jpg"}})
-
-![imagen]({{https://github.com/JoseLuisCarrilloVargas/joseluiscarrillovargas.github.io/blob/main/img/Fern-Wifi-Cracker.jpg}})
+![](/img/Fern-Wifi-Cracker.jpg)
+![imagen](/img/Fern-Wifi-Cracker.jpg)
 
 ![](https://github.com/JoseLuisCarrilloVargas/joseluiscarrillovargas.github.io/blob/main/img/Fern-Wifi-Cracker.jpg)
 
