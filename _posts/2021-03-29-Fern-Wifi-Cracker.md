@@ -7,7 +7,7 @@ author:     Jose Carrillo
 header-img: img/Fern-Wifi-Cracker.jpg
 catalog: true
 tags:
-    - Hacking
+    # - Hacking
 ---
 
 ## ¿Qué es esta herramienta?
