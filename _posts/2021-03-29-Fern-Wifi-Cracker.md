@@ -10,7 +10,6 @@ tags:
     # - Hacking
 ---
 
-## ¿Qué es esta herramienta?
 
 Fern Wifi Cracker es una herramienta de seguridad informática que se utiliza para realizar pruebas de penetración en redes inalámbricas. Es una aplicación gratuita y de código abierto que permite a los profesionales de seguridad evaluar la seguridad de las redes Wi-Fi y detectar vulnerabilidades en su configuración.
 
