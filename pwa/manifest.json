@@ -3,11 +3,11 @@
   "short_name": "BY Blog",
   "description": "A personal blog by engineer",
   "icons": [{
-    "src": "icons/icon.jpg",
+    "src": "icons/icon.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/icon.jpg",
+    "src": "icons/icon.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
