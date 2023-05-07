@@ -4,7 +4,7 @@ title:      Fern Wifi Cracker
 subtitle:   Herramienta para auditorías de red
 date:       2023-04-01
 author:     Jose Carrillo
-header-img: /Fern-Wifi-Cracker/img/Fern-Wifi-Cracker.jpg
+header-img: /Fern-Wifi-Cracker/Fern-Wifi-Cracker.jpg
 catalog: true
 tags:
     # - Hacking
@@ -38,15 +38,15 @@ Se asigna el nombre de la tarjeta de red
 
 Seleccionamos la tarjeta de red
 
-![imagen](/Fern-Wifi-Cracker/img/TarjetaDeRed.png)
+![imagen](/Fern-Wifi-Cracker/TarjetaDeRed.png)
 
 Luego de haber seleccionado la tarjeta de red, se seleccionó la opción de escanear las redes que se encuentran alrededor para luego observar las redes que fueron detectadas. 
 
-![imagen](/Fern-Wifi-Cracker/img/SeleccionRed.png)
+![imagen](/Fern-Wifi-Cracker/SeleccionRed.png)
 
 
 Se mostro un panel en donde nos mostrara datos sobre las redes, al igual que algunos parámetros identificadores de las redes. Como se puede ver en la figura la interfaz muestra las redes que tiene a su alrededor, que al momento de seleccionar alguna, muestra información sobre ella, también nos da la opción de seleccionar el diccionario que se utilizara, al igual que se seleccionar el dispositivo que se des autenticara. Una vez seleccionado el diccionario se selecciona la opción “Attack” la cual ayudara a que inicie el ataque. 
 Al finalizar el ataque arrojó la contraseña que esta asignada a la red WIFI, todo el proceso lleva un determinado tiempo, por lo que depende de muchos fatores, como tipo de procesador de la computadora, línea en donde se encuentra la contraseña de la red, intensidad de la señal de la red y también si existen dispositivos conectados a ella, debido a que este tipo de ataque necesita realizar una des autenticación de algún dispositivo para obtener el Handshake y así poder validar con las contraseñas que se encuentren en el diccionario previamente insertado.
 
 
-![imagen](/Fern-Wifi-Cracker/img/RedHack.jpeg)
+![imagen](/Fern-Wifi-Cracker/RedHack.jpeg)
