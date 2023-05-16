@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Dirsearch
-subtitle:   Busca ls vulnerabilidades de un sitio web
+subtitle:   Busca las vulnerabilidades de un sitio web
 date:       2023-04-27
 author:     Jose Carrillo
 header-img: img/Dirsearch/Dirsearch1.png
